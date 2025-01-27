@@ -1,1 +1,2 @@
-TEST the fie content
+# TEST the fie content
+print('WELCOME')
